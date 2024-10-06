@@ -77,6 +77,7 @@ docker run -d -p 8080:8080 techwondoe-assignment
 1. JWT token with two scopes (Read, Write)
 2. JWT token with one scope
 
+``` sh
 # API Routes:(Admin)
 +--------+-------------------------+
   Method | URI
